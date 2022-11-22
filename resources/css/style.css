@@ -39,7 +39,7 @@ nav {
     line-height: 2.2;
     font-weight: bold;
     color: #142033;
-
+    transition: left 1s ease 0.1s;
 }
 
 nav:hover {
