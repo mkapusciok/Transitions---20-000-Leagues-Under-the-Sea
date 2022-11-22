@@ -195,7 +195,7 @@ header h2 {
     opacity: 0;
     font-family: "Proza Libre", sans-serif;
     font-size: 1.5rem;
-
+    transition: top 2s ease 0.1s, opacity 2s ease 0.1s;
 }
 
 .definable:hover .definition-container {
