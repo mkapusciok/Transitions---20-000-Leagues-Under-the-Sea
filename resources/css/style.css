@@ -243,7 +243,7 @@ header h2 {
     font-weight: bold;
     text-decoration: none;
     color: #ffffff;
-
+    transition: opacity 1s ease 0.1s;
 }
 
 .button:hover {
